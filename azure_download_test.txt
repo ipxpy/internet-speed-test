@@ -1,0 +1,56 @@
+Consolidated Download Report
+============================
+Region: https://www.azurespeed.com/api/sas?regionName=westeurope&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 82 seconds
+Average Speed: 1.22 MB/s (9.78 Mbps)
+
+Region: https://www.azurespeed.com/api/sas?regionName=centralus&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 81 seconds
+Average Speed: 1.23 MB/s (9.82 Mbps)
+
+Region: https://www.azurespeed.com/api/sas?regionName=westindia&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 48 seconds
+Average Speed: 2.08 MB/s (16.63 Mbps)
+
+Region: https://www.azurespeed.com/api/sas?regionName=eastasia&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 82 seconds
+Average Speed: 1.22 MB/s (9.75 Mbps)
+
+Region: https://www.azurespeed.com/api/sas?regionName=uaenorth&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 40 seconds
+Average Speed: 2.51 MB/s (20.1 Mbps)
+
+Region: https://www.azurespeed.com/api/sas?regionName=southafricanorth&blobName=100MB.bin&operation=download
+
+Download Report
+---------------
+File: C:\Users\614685419\Downloads\100MB.bin
+Total Size: 100 MB
+Time Taken: 75 seconds
+Average Speed: 1.34 MB/s (10.7 Mbps)
+
